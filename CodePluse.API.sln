@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePluse.API", "CodePluse.API\CodePluse.API.csproj", "{B9724CBC-5DBD-4256-A046-78F0432655EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9724CBC-5DBD-4256-A046-78F0432655EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9724CBC-5DBD-4256-A046-78F0432655EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9724CBC-5DBD-4256-A046-78F0432655EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9724CBC-5DBD-4256-A046-78F0432655EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
