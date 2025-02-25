@@ -15,28 +15,8 @@
       "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\models\\dto\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\models\\dto\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\models\\dto\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\models\\dto\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,41 +34,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateCategoryRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
-              "RelativeDocumentMoniker": "CodePluse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
-              "RelativeToolTip": "CodePluse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CodePluse.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CodePluse.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T16:39:27.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\DTO\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "CodePluse.API\\Models\\DTO\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\DTO\\CategoryDto.cs",
-              "RelativeToolTip": "CodePluse.API\\Models\\DTO\\CategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T15:58:38.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateCategoryRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\DTO\\UpdateCategoryRequestDto.cs",
-              "RelativeDocumentMoniker": "CodePluse.API\\Models\\DTO\\UpdateCategoryRequestDto.cs",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\DTO\\UpdateCategoryRequestDto.cs",
-              "RelativeToolTip": "CodePluse.API\\Models\\DTO\\UpdateCategoryRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T14:48:35.103Z",
+              "WhenOpened": "2025-02-18T04:24:02.484Z",
               "EditorCaption": ""
             },
             {
@@ -99,10 +53,9 @@
               "RelativeDocumentMoniker": "CodePluse.API\\Repositories\\Implementation\\CategoryRepository.cs",
               "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Repositories\\Implementation\\CategoryRepository.cs",
               "RelativeToolTip": "CodePluse.API\\Repositories\\Implementation\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwDoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T08:29:04.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T08:29:04.065Z"
             },
             {
               "$type": "Document",
@@ -112,27 +65,13 @@
               "RelativeDocumentMoniker": "CodePluse.API\\Repositories\\Interface\\ICategoryRepository.cs",
               "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Repositories\\Interface\\ICategoryRepository.cs",
               "RelativeToolTip": "CodePluse.API\\Repositories\\Interface\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T05:59:23.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T05:59:23.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "CodePluse.API\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "CodePluse.API\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T04:24:02.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Program.cs",
               "RelativeDocumentMoniker": "CodePluse.API\\Program.cs",
@@ -141,30 +80,6 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T03:39:48.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\Domain\\Category.cs",
-              "RelativeDocumentMoniker": "CodePluse.API\\Models\\Domain\\Category.cs",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\Domain\\Category.cs",
-              "RelativeToolTip": "CodePluse.API\\Models\\Domain\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T03:58:39.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BlogPost.cs",
-              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\Domain\\BlogPost.cs",
-              "RelativeDocumentMoniker": "CodePluse.API\\Models\\Domain\\BlogPost.cs",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\Domain\\BlogPost.cs",
-              "RelativeToolTip": "CodePluse.API\\Models\\Domain\\BlogPost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T03:51:26.266Z"
             }
           ]
         }

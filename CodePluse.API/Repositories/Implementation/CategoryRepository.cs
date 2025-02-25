@@ -2,6 +2,7 @@
 using CodePluse.API.Models.Domain;
 using CodePluse.API.Repositories.Interface;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.VisualBasic;
 
 namespace CodePluse.API.Repositories.Implementation
 {
@@ -20,7 +21,6 @@ namespace CodePluse.API.Repositories.Implementation
 
             return category;
         }
-
 
         public async Task<IEnumerable<Category>> GetAllAsync()
         {
@@ -45,6 +45,21 @@ namespace CodePluse.API.Repositories.Implementation
                 return category;
             }
             return null;
+        }
+
+        public async Task<Category?> DeleteAsync(Guid id)
+        {
+            var existingCategory = await dbContext.Categories.FirstOrDefaultAsync(x => x.Id == id);
+
+            if (existingCategory is null) 
+            { 
+                return null;
+            }
+
+            dbContext.Categories.Remove(existingCategory);
+            await dbContext.SaveChangesAsync();
+            return existingCategory;
+
         }
     }
 }

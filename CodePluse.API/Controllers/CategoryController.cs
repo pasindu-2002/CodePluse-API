@@ -29,7 +29,7 @@ namespace CodePluse.API.Controllers
                 UrlHandle = request.UrlHandle
             };
 
-            await categoryRepository.CreateAsync(category); 
+            await categoryRepository.CreateAsync(category);
 
             //Domain Model to DTO
             var response = new CategoryDto
@@ -42,25 +42,25 @@ namespace CodePluse.API.Controllers
             return Ok(response);
         }
 
-        
+
         //Get All Category
         [HttpGet]
         public async Task<IActionResult> GetAllCategories()
         {
-            var categories =  await categoryRepository.GetAllAsync();
+            var categories = await categoryRepository.GetAllAsync();
 
             //Map Domain Model to DTO
             var response = new List<CategoryDto>();
-            foreach (var category in categories) 
+            foreach (var category in categories)
             {
                 response.Add(new CategoryDto
                 {
-                    Id= category.Id,
+                    Id = category.Id,
                     Name = category.Name,
                     UrlHandle = category.UrlHandle
                 });
             }
-         
+
             return Ok(response);
         }
 
@@ -100,9 +100,33 @@ namespace CodePluse.API.Controllers
                 Name = request.Name,
                 UrlHandle = request.UrlHandle
             };
-             await categoryRepository.UpadateAsync(category);
+            await categoryRepository.UpadateAsync(category);
 
             if (category is null)
+            {
+                return NotFound();
+            }
+
+            // Convert Domain model to DTO
+            var response = new CategoryDto
+            {
+                Id = category.Id,
+                Name = category.Name,
+                UrlHandle = category.UrlHandle
+            };
+
+            return Ok(response);
+        }
+
+
+        // Delete Categoty 
+        [HttpDelete]
+        [Route("{id:Guid}")]
+        public async Task<IActionResult> DeleteCategory([FromRoute] Guid id)
+        {
+            var category = await categoryRepository.DeleteAsync(id);
+
+            if(category is null)
             {
                 return NotFound();
             }
