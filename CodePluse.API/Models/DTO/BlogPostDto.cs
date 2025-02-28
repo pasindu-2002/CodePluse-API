@@ -1,8 +1,6 @@
-﻿using System.Security.Principal;
-
-namespace CodePluse.API.Models.Domain
+﻿namespace CodePluse.API.Models.DTO
 {
-    public class BlogPost
+    public class BlogPostDto
     {
         public Guid Id { get; set; }
         public string Title { get; set; }
@@ -19,6 +17,6 @@ namespace CodePluse.API.Models.Domain
 
         public bool IsVisible { get; set; }
 
-        public ICollection<Category> Categories { get; set; }
+        public List<CategoryDto> Categories { get; set; } = new List<CategoryDto>();
     }
 }
