@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\repositories\\interface\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\models\\dto\\updateblogpostrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\models\\dto\\updateblogpostrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\models\\dto\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\models\\dto\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\models\\dto\\updateblogpostrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\models\\dto\\updateblogpostrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UpdateBlogPostRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\DTO\\UpdateBlogPostRequestDto.cs",
               "RelativeDocumentMoniker": "CodePluse.API\\Models\\DTO\\UpdateBlogPostRequestDto.cs",
@@ -50,8 +50,7 @@
               "RelativeToolTip": "CodePluse.API\\Models\\DTO\\UpdateBlogPostRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T10:51:36.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T10:51:36.149Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "CodePluse.API\\Repositories\\Interface\\IBlogPostRepository.cs",
               "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Repositories\\Interface\\IBlogPostRepository.cs",
               "RelativeToolTip": "CodePluse.API\\Repositories\\Interface\\IBlogPostRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T09:23:14.911Z",
               "EditorCaption": ""
@@ -74,22 +73,23 @@
               "RelativeDocumentMoniker": "CodePluse.API\\Repositories\\Implementation\\BlogPostRepository.cs",
               "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Repositories\\Implementation\\BlogPostRepository.cs",
               "RelativeToolTip": "CodePluse.API\\Repositories\\Implementation\\BlogPostRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T08:11:21.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "BlogPostDto.cs",
               "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\DTO\\BlogPostDto.cs",
               "RelativeDocumentMoniker": "CodePluse.API\\Models\\DTO\\BlogPostDto.cs",
               "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\DTO\\BlogPostDto.cs",
               "RelativeToolTip": "CodePluse.API\\Models\\DTO\\BlogPostDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:39:25.431Z"
+              "WhenOpened": "2025-02-26T16:39:25.431Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -97,9 +97,9 @@
               "Title": "BlogPostsController.cs",
               "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Controllers\\BlogPostsController.cs",
               "RelativeDocumentMoniker": "CodePluse.API\\Controllers\\BlogPostsController.cs",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Controllers\\BlogPostsController.cs",
-              "RelativeToolTip": "CodePluse.API\\Controllers\\BlogPostsController.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAgwNsAAABKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Controllers\\BlogPostsController.cs*",
+              "RelativeToolTip": "CodePluse.API\\Controllers\\BlogPostsController.cs*",
+              "ViewState": "AgIAANUAAAAAAAAAAAAQwPUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T16:32:34.617Z",
               "EditorCaption": ""

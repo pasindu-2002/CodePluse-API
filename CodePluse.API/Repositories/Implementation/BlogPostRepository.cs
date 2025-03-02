@@ -6,6 +6,7 @@ using Microsoft.VisualBasic;
 
 namespace CodePluse.API.Repositories.Implementation
 {
+
     public class BlogPostRepository : IBlogPostRepository
     {
         private readonly ApplicationDbContext dbContext;
@@ -63,6 +64,11 @@ namespace CodePluse.API.Repositories.Implementation
             }
 
             return null;
+        }
+
+        public async Task<BlogPost?> GetByUrlHandleAync(string urlHandle)
+        {
+            return await dbContext.BlogPosts.Include(x => x.Categories).FirstOrDefaultAsync(x => x.UrlHandle == urlHandle);
         }
     }
 }

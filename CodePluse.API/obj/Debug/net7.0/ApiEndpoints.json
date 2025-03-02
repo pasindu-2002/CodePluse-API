@@ -79,6 +79,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CodePluse.API.Controllers.BlogPostsController",
+    "Method": "GetBlogPostByUrlHandle",
+    "RelativePath": "api/BlogPosts/{urlHandle}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "urlHandle",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CodePluse.API.Controllers.CategoryController",
     "Method": "CreateCategory",
     "RelativePath": "api/Category",
