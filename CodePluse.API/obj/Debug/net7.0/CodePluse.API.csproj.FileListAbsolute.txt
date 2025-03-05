@@ -78,3 +78,10 @@ C:\Users\PasinduEranga\OneDrive - 99x\Desktop\My Projects\CodePluse\API\CodePlus
 C:\Users\PasinduEranga\OneDrive - 99x\Desktop\My Projects\CodePluse\API\CodePluse.API\CodePluse.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\PasinduEranga\OneDrive - 99x\Desktop\My Projects\CodePluse\API\CodePluse.API\CodePluse.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\PasinduEranga\OneDrive - 99x\Desktop\My Projects\CodePluse\API\CodePluse.API\CodePluse.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PasinduEranga\OneDrive - 99x\Desktop\My Projects\CodePluse\API\CodePluse.API\CodePluse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PasinduEranga\OneDrive - 99x\Desktop\My Projects\CodePluse\API\CodePluse.API\CodePluse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PasinduEranga\OneDrive - 99x\Desktop\My Projects\CodePluse\API\CodePluse.API\CodePluse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PasinduEranga\OneDrive - 99x\Desktop\My Projects\CodePluse\API\CodePluse.API\CodePluse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PasinduEranga\OneDrive - 99x\Desktop\My Projects\CodePluse\API\CodePluse.API\CodePluse.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PasinduEranga\OneDrive - 99x\Desktop\My Projects\CodePluse\API\CodePluse.API\CodePluse.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PasinduEranga\OneDrive - 99x\Desktop\My Projects\CodePluse\API\CodePluse.API\CodePluse.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll

@@ -3,6 +3,7 @@ using CodePluse.API.Data;
 using CodePluse.API.Models.Domain;
 using CodePluse.API.Models.DTO;
 using CodePluse.API.Repositories.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -45,6 +46,7 @@ namespace CodePluse.API.Controllers
 
         //Get All Category
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> GetAllCategories()
         {
             var categories = await categoryRepository.GetAllAsync();
