@@ -1,6 +1,7 @@
 ﻿using CodePluse.API.Models.Domain;
 using CodePluse.API.Models.DTO;
 using CodePluse.API.Repositories.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.VisualBasic;
@@ -22,6 +23,7 @@ namespace CodePluse.API.Controllers
 
         // Create Blog Post
         [HttpPost]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> CreateBlogPost([FromBody] CreateBlogPostRequestDto request)
         {
             // Convert DTO to Domain
@@ -152,6 +154,7 @@ namespace CodePluse.API.Controllers
         // Update BlogPosts
         [HttpPut]
         [Route("{id:Guid}")]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> UpdateBlogPosById([FromRoute] Guid id, UpdateBlogPostRequestDto request)
         {
             // Convert DTO to Doamin Model
@@ -215,6 +218,7 @@ namespace CodePluse.API.Controllers
         //Delete BlogPost
         [HttpDelete]
         [Route("{id:Guid}")]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> DeleteBlogPost([FromRoute] Guid id)
         {
             var deleteBlogPost = await blogPostRepository.DeleteAsync(id);

@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Migrations\\AuthDb\\20250303171527_Initial Migration For Auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodePluse.API\\Migrations\\AuthDb\\20250303171527_Initial Migration For Auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|c:\\users\\pasindueranga\\onedrive - 99x\\desktop\\my projects\\codepluse\\api\\codepluse.api\\codepluse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9724CBC-5DBD-4256-A046-78F0432655EA}|CodePluse.API\\CodePluse.API.csproj|solutionrelative:codepluse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,127 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Program.cs",
+              "RelativeDocumentMoniker": "CodePluse.API\\Program.cs",
+              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Program.cs",
+              "RelativeToolTip": "CodePluse.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:43:00.425Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250303171527_Initial Migration For Auth.cs",
-              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Migrations\\AuthDb\\20250303171527_Initial Migration For Auth.cs",
-              "RelativeDocumentMoniker": "CodePluse.API\\Migrations\\AuthDb\\20250303171527_Initial Migration For Auth.cs",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Migrations\\AuthDb\\20250303171527_Initial Migration For Auth.cs",
-              "RelativeToolTip": "CodePluse.API\\Migrations\\AuthDb\\20250303171527_Initial Migration For Auth.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAQwHIAAAATAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "CodePluse.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "RelativeToolTip": "CodePluse.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T17:15:28.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegisterRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\DTO\\RegisterRequestDto.cs",
-              "RelativeDocumentMoniker": "CodePluse.API\\Models\\DTO\\RegisterRequestDto.cs",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Models\\DTO\\RegisterRequestDto.cs",
-              "RelativeToolTip": "CodePluse.API\\Models\\DTO\\RegisterRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T16:32:37.13Z",
+              "WhenOpened": "2025-03-11T13:12:52.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "CodePluse.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "CodePluse.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwBYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T16:28:45.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "CodePluse.API\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "CodePluse.API\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAA5wDAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T15:08:58.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CodePluse.API\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CodePluse.API\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T15:02:52.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "CodePluse.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "CodePluse.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-03T14:33:36.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\appsettings.json",
-              "RelativeDocumentMoniker": "CodePluse.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\appsettings.json",
-              "RelativeToolTip": "CodePluse.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-03T14:13:10.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Program.cs",
-              "RelativeDocumentMoniker": "CodePluse.API\\Program.cs",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Program.cs",
-              "RelativeToolTip": "CodePluse.API\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAACgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T14:12:35.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Data\\AuthDbContext.cs",
-              "RelativeDocumentMoniker": "CodePluse.API\\Data\\AuthDbContext.cs",
-              "ToolTip": "C:\\Users\\PasinduEranga\\OneDrive - 99x\\Desktop\\My Projects\\CodePluse\\API\\CodePluse.API\\CodePluse.API\\Data\\AuthDbContext.cs",
-              "RelativeToolTip": "CodePluse.API\\Data\\AuthDbContext.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T04:48:04.177Z",
+              "WhenOpened": "2025-03-05T08:54:27.778Z",
               "EditorCaption": ""
             }
           ]

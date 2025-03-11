@@ -21,6 +21,7 @@ namespace CodePluse.API.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> CreateCategory([FromBody] CreateCategoryRequestDto request)
         {
             // Map DTO to Domain Model
@@ -43,13 +44,11 @@ namespace CodePluse.API.Controllers
             return Ok(response);
         }
 
-
         //Get All Category
         [HttpGet]
-        [Authorize]
-        public async Task<IActionResult> GetAllCategories()
+        public async Task<IActionResult> GetAllCategories([FromQuery] string? query)
         {
-            var categories = await categoryRepository.GetAllAsync();
+            var categories = await categoryRepository.GetAllAsync(query);
 
             //Map Domain Model to DTO
             var response = new List<CategoryDto>();
@@ -93,6 +92,7 @@ namespace CodePluse.API.Controllers
         // Update Category
         [HttpPut]
         [Route("{id:Guid}")]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> EditCategoty([FromRoute] Guid id, UpdateCategoryRequestDto request)
         {
             // Convert DTO to Domain Model
@@ -124,6 +124,7 @@ namespace CodePluse.API.Controllers
         // Delete Categoty 
         [HttpDelete]
         [Route("{id:Guid}")]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> DeleteCategory([FromRoute] Guid id)
         {
             var category = await categoryRepository.DeleteAsync(id);
