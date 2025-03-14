@@ -45,10 +45,11 @@ namespace CodePluse.API.Controllers
         }
 
         //Get All Category
+        // GET: https://localhost:7297/api/Category?quer=html&sortBy=name&sortDirection=desc
         [HttpGet]
-        public async Task<IActionResult> GetAllCategories([FromQuery] string? query)
+        public async Task<IActionResult> GetAllCategories([FromQuery] string? query, [FromQuery] string? sortBy, [FromQuery] string? sortDirection)
         {
-            var categories = await categoryRepository.GetAllAsync(query);
+            var categories = await categoryRepository.GetAllAsync(query, sortBy, sortDirection);
 
             //Map Domain Model to DTO
             var response = new List<CategoryDto>();
