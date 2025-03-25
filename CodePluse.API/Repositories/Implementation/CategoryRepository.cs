@@ -22,7 +22,7 @@ namespace CodePluse.API.Repositories.Implementation
             return category;
         }
 
-        public async Task<IEnumerable<Category>> GetAllAsync(string? query = null, string? sortBy = null, string? sortDirection = null)
+        public async Task<IEnumerable<Category>> GetAllAsync(string? query = null, string? sortBy = null, string? sortDirection = null, int? pageNumber = 1, int? pageSize = 100)
         {
             // Query
             var categories = dbContext.Categories.AsQueryable();
@@ -53,7 +53,12 @@ namespace CodePluse.API.Repositories.Implementation
             }
 
             //Pagination
+            // Pagenumber 1 pageSize 5 - skip 0, task 5
+            // Pagenumber 2 pageSize 5 - skip 5, task 5
+            // Pagenumber 3 pageSize 5 - skip 10, task 5
+            var skipResult = (pageNumber - 1) * pageSize;
 
+            categories = categories.Skip(skipResult ?? 0).Take(pageSize ??  100);
 
             return await categories.ToListAsync();
         }
@@ -91,6 +96,11 @@ namespace CodePluse.API.Repositories.Implementation
             await dbContext.SaveChangesAsync();
             return existingCategory;
 
+        }
+
+        public async Task<int> GetCount()
+        {
+            return await dbContext.Categories.CountAsync();
         }
     }
 }
